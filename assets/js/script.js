@@ -5,7 +5,7 @@ MenuBtn.addEventListener('click', function (e) {
 })
 
 let typed = new Typed('.auto-input', {
-    strings: ['Freelancer!', 'Front-End Developer!', 'React Developer!', 'NextJs Developer', 'MERN Stack Developer!', 'Web Developer!'],
+    strings: ['Front-End Developer!', 'React Developer!', 'NextJs Developer', 'MERN Stack Developer!', 'Web Developer!'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 2000,
@@ -29,9 +29,4 @@ window.addEventListener('scroll', function () {
         }
     });
 });
-
-
-
-
-
 
